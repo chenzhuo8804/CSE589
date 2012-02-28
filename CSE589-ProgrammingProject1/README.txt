@@ -1,0 +1,1 @@
+This is programming asst one for CSE589 ( Modern Network Concept ), University at Buffalo, 2012 Spring. Basically it is a file share software written in c. Socket programming is also used in this project. Usage and description of this project can be found in PA1.pfd, PA1_Grading_Guideline and README1.PDF

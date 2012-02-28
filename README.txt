@@ -1,0 +1,2 @@
+This is repository for CSE589 (Modern Network Concepts http://www.cse.buffalo.edu/faculty/dimitrio/courses/cse4589_s12/index.html ,  user name cse4589_s12 , password 205nscs2012677) programming assignments, University at Buffalo, 3 assignments would be included in this repository.
+PA1, file sharing using TCP
